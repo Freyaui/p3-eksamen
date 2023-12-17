@@ -147,7 +147,7 @@ main {
 }
 .tab-contents img {
     width: 60px;
-    justify-content: row;
+    justify-content: center;
     margin-right: 12px;
 }
 
